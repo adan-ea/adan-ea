@@ -59,7 +59,75 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
 ## ☄️ GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2018%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 97 Contributions in the Year 2022
+ > 
+> 📦 34.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    49 commits     █████████░░░░░░░░░░░░░░░░   39.2% 
+🌆 Daytime    57 commits     ███████████░░░░░░░░░░░░░░   45.6% 
+🌃 Evening    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
+Tuesday      37 commits     ███████░░░░░░░░░░░░░░░░░░   29.6% 
+Wednesday    26 commits     █████░░░░░░░░░░░░░░░░░░░░   20.8% 
+Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
+Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+
+ Last Updated on 12/07/2022 11:46:59 UTC
 <!--END_SECTION:waka-->
 
 ## <p align="center">🔍 Where to find me </p>
