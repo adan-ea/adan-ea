@@ -5,13 +5,10 @@
 ```yaml
 name: Adan
 located_in: Paris, France
-from: Alicante (Spain)
 job: Web Dev Full Stack
 currently_learning: ["JavaScript", "TypeScript", "TailwindCSS"]
 hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbing"]
 ```
-
-[➡️ Check out my website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🎵 What gets me going while I'm working
 
@@ -55,88 +52,6 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
 
 <code><img title="docker" height="40" src="images/docker.svg"></code>
 <code><img title="git" height="40" src="images/git.svg"></code>
-
-## ☄️ GitHub Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-414%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 98 Contributions in the Year 2022
- > 
-> 📦 35.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    46 commits     █████████░░░░░░░░░░░░░░░░   37.7% 
-🌆 Daytime    58 commits     ████████████░░░░░░░░░░░░░   47.54% 
-🌃 Evening    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
-Tuesday      37 commits     ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Wednesday    27 commits     █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               3 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.77% 
-Markdown                 2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.57% 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
-
-🐱‍💻 Projects: 
-cra-template-reactjs-scss4 hrs 16 mins       █████████████░░░░░░░░░░░░   55.21% 
-adan-ea                  2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.33% 
-fgez                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
-adan-ea-master           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-sw_relations_membres     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
-
-💻 Operating System: 
-Windows                  7 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-
- Last Updated on 14/07/2022 17:05:21 UTC
-<!--END_SECTION:waka-->
 
 ## <p align="center">🔍 Where to find me </p>
 
