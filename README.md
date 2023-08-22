@@ -6,7 +6,7 @@
 name: Adan
 located_in: Paris, France
 job: Web Dev Full Stack
-currently_learning: ["JavaScript", "TypeScript", "TailwindCSS"]
+currently_learning: ["C#", "JavaScript", "TypeScript"]
 hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbing"]
 ```
 
@@ -56,10 +56,8 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
 ## <p align="center">🔍 Where to find me </p>
 
 <p align="center">
-<a href="https://discord.gg/63VV3hx9fQ"><img src="https://img.shields.io/badge/discord-5869e9.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+<a href="https://discord.gg/Addyt4QysP"><img src="https://img.shields.io/badge/discord-5869e9.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="mailto:adan.ea.pro@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/adan.ea/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/adan-el-arabi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
