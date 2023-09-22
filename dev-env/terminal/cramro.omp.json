@@ -33,7 +33,7 @@
               "threshold": 2
             },
             "style": "powerline",
-            "template": "<#f4e284>\ufbab</> {{ .FormattedMs }}",
+            "template": "<#f4e284>\udb86\udd9f</> {{ .FormattedMs }}",
             "type": "executiontime"
           }
         ],
@@ -61,4 +61,3 @@
     ],
     "version": 2
   }
-  
