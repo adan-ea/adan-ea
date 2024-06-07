@@ -6,8 +6,8 @@
 name: Adan
 located_in: Paris, France
 job: Web Dev Full Stack
-currently_learning: ["C#", "JavaScript", "TypeScript"]
-hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbing"]
+currently_learning: ["C#", "Go", "JavaScript", "Rust", "TypeScript"]
+hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbing", "Skateboarding"]
 ```
 
 ## 🎵 What gets me going while I'm working
@@ -16,10 +16,6 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://adan-ea.vercel.app/api/top-played">
 </p>
 
 ## 🛠 Technologies and tools
