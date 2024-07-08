@@ -5,18 +5,10 @@
 ```yaml
 name: Adan
 located_in: Paris, France
-job: Web Dev Full Stack
-currently_learning: ["C#", "Go", "JavaScript", "Rust", "TypeScript"]
+job: Full Stack Developer
+currently_learning: ["C#", "Rust", "TypeScript"]
 hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbing", "Skateboarding"]
 ```
-
-## 🎵 What gets me going while I'm working
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
 
 ## 🛠 Technologies and tools
 
@@ -26,14 +18,14 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
 
 <code><img title="HTML" height="40" src="images/html.svg"></code>
 <code><img title="CSS" height="40" src="images/css.svg"></code>
-<code><img title="Java" height="40" src="images/java.svg"></code>
 <code><img title="JavaScript" height="40" src="images/js.svg"></code>
+<code><img title="Rust" height="40" src="images/rust.svg"></code>
 <code><img title="TypeScript" height="40" src="images/ts.svg"></code>
 
 ### Frameworks
 
 <code><img title="Angular" height="40" src="images/angular.svg"></code>
-<code><img title="Bootstrap" height="40" src="images/bootstrap.svg"></code>
+<code><img title="Bevy" height="40" src="images/bevy_bird_dark.svg"></code>
 <code><img title="React/React Native" height="40" src="images/react.svg"></code>
 <code><img title="TailwindCSS" height="40" src="images/tailwindcss.svg"></code>
 <code><img title="VueJS" height="40" src="images/vue.svg"></code>
@@ -53,7 +45,7 @@ hobbies: ["Basketball", "Bouldering", "Cinema", "Gaming", "Music", "Rock Climbin
 
 <p align="center">
 <a href="https://discord.gg/Addyt4QysP"><img src="https://img.shields.io/badge/discord-5869e9.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
-<a href="mailto:adan.ea.pro@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:YOURCOMPANY@adan-ea.net"><img src="https://img.shields.io/badge/YOURNAME-@adan--ea.net-6D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
